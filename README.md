@@ -1,4 +1,4 @@
-# Apiary v.1.000
+# Apiary v.0.0.1
 Программа предназначена для учета пасечных работ и ульев. Для запуска программы запустите Paseka.py
 ![image](https://user-images.githubusercontent.com/74006664/144742772-75bd4b2e-1583-408b-8410-a701351f34d4.png)
 
